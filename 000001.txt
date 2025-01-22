@@ -1,0 +1,297 @@
+0.1704546546182889	3.477274954213095	O1	Come ve lo spiego. Garen è il classico. Allora,
+3.477274954213095	9.211363643641219	O1	Garen e Master Yi sono campioni estremamente facili, ok? Ed è giusto iniziare con quelli facili.[N]
+10.448132647063805	15.928040734969592	O1	[OVERLAP/]Ah, prima di li[/OVERLAP], ah prima livello qui c'hai i campioni gratis diversi, quindi non abbiamo gli stessi. [N]
+15.928040734969592	18.950411082265305	O1	Ah, forse te ne ha dati alcuni che il gioco considera più facili.[N]
+19.17643822509311	24.602288483239708	O1	Allora, adesso ti spiego lo start. Tu devi comprare, [OVERLAP/]ok? All'inizio i cinquecento[/OVERLAP]
+24.602288483239708	27.318199313491114	O2	Ho già vinto, perché non puoi picchiarmi se ho gli occhiali.
+27.318199313491114	28.811867993363496	O1	Ma non hai gli occhiali, Poldo.
+29.26	31.11645896138838	O1	[OVERLAP/]Hai una maschera qui. [/OVERLAP].
+31.500020173459802	32.67047546850539	O2	Vabbè, sono occhiali. [N]
+32.718420620014314	35.41616398263775	O1	Va bene, eh ti piccherò lo stesso.[N]
+35.49835567093878	40.41844290308289	O1	Allora, [OVERLAP/]tu [/OVERLAP]all'inizio devi ovviamente comprare degli oggetti, hai cinquecento gold, vedi?
+41.45408965006907	43.97940254840393	O2	Ok, sì, ho cinquecento di oro in basso a destra. [N]
+43.97940254840393	45.137654861735605	O1	[OVERLAP/]Ecco,[/OVERLAP] bene.
+45.75129161836144	52.550136839809944	O1	Allora, adesso è veramente a pa-, a prova di, di, di, di parafulmini, perché non posso dire altro. Lo, mmh.
+52.550136839809944	56.83968594889314	O1	Eh. Nella sezione Recommended, sì, i parafulmini, [N]
+56.83968594889314	62.35150580074489	O1	[OVERLAP/]la sezione Recommended[/OVERLAP] letteralmente ti consiglia cosa puoi comprare. Eh.[N]
+62.35150580074489	64.50677670158358	O2	[OVERLAP/] Ovvero [/OVERLAP]Q, V ed E. No.
+64.9245844504471	68.45287645018622	O1	Quelle sono le abilità. No, siamo sullo shop, devi aprire lo shop.
+68.95287588735076	71.99664946235788	O2	[OVERLAP/]Ah, questo già me lo, mi manca. Come si apre lo shop? [/OVERLAP][N]
+72.28074055338836	78.14040883092343	O1	Eh. Cliccando P. Oppure clicchi sul tizio con il mammut lì a s- dorme, comunque con P.[N]
+78.14040883092343	80.84922405876965	O2	[OVERLAP/]È un mammut? È come se è più un tricheco. [/OVERLAP]
+80.84922405876965	84.05137008660589	O1	[OVERLAP/]Abbiamo lo shop[/OVERLAP], ok? Ci siamo?
+84.72260220773084	92.57133827451123	O1	Nello [OVERLAP/]shop[/OVERLAP] tu dovresti vedere gli oggetti che puoi comprare. Soprattutto [OVERLAP/]nella sezione re. Consigliati, [/OVERLAP]ecco in italiano, io ce l'ho in inglese.
+92.87364231654135	97.59593208757585	O1	In italiano, consigliati sono quelli che ti consiglia il gioco. Cosa hai? Leggimi.
+97.59593208757585	98.83776526924282	O1	Dimmi gli oggetti [OVERLAP/]che vedi. ok. [/OVERLAP]
+98.83776526924282	102.44260277056632	O2	Doran [OVERLAP/]inizia[/OVERLAP]. Scudo di Doran inizia, spada lunga inizia.
+102.44260277056632	110.05311369333187	O1	[OVERLAP/]Ok, [/OVERLAP]allora. Bah. Inizia con la lama di Doran, che è un po' la base. Se vuoi puoi leggere anche le statistiche, però te le spiegherò io.
+110.21220470430893	112.65368556868071	O2	[OVERLAP/]Certo.[/OVERLAP] Ho otto di attacco fisico e ottanta.
+112.65368556868071	120.09575522250654	O1	[OVERLAP/]Esatto,[/OVERLAP] e poi la pozione. Ovviamente tu al primo start con i cinquecento gold devi spenderli tutti. Ok?[OVERLAP/] Altrimenti [/OVERLAP]sarai in svantaggio.
+120.09575522250654	122.65493129867728	O2	E infatti adesso me ne consiglia altri che penso prenderò.
+122.6549312986773	129.41766253731384	O1	[OVERLAP/]Esatto,[/OVERLAP] prenderai dopo. Adesso andiamo in midlane, corri verso la corsia centrale. Proprio della stra-, dritta per dritta.
+129.76012790523475	130.46560656315185	O2	Ok.[N]
+130.46560656315185	132.8330132899962	O1	[OVERLAP/]E arriva dove ci sono i minion [/OVERLAP]che si stanno picchiando.
+133.18232796527548	136.2121754368648	O1	Ci si muove [OVERLAP/]col tasto destro, ovviamente. [/OVERLAP]
+136.2121754368648	138.43820032835077	O2	Potere, [OVERLAP/]sento[/OVERLAP] i brufoli che crescono. i
+138.43820032835077	139.3971033585293	O1	Oh yes.
+140.32175985191577	143.2461628569668	O2	Ma il mio personaggio è scomparso. E ma è lentissimo, figa.[N]
+143.68451852790557	150.63068532472064	O1	E ci vuole un po', ecco. Adesso io, il buon [OVERLAP/] Lecco Sederi[/OVERLAP], sono precisamente qua in mezzo.
+150.7608221645306	154.52722331327536	O2	Potrei essere[OFFENSIVE/]coglione,[/OFFENSIVE] non, non sono andato in alto, ho sbaglia.[N]
+154.52722331327536	158.5235623377423	O1	Non in alto, devi andare dritto nella corsia centrale.[N]
+158.88657562773855	163.0637961359893	O2	Eh. Invece sono s- andato in alto perché e niente, il mio personaggio è[OVERLAP/] scomparso. [/OVERLAP]
+163.0751597796305	164.45871898298188	O1	Mappa in basso a destra?
+164.9107732686375	165.6573477707051	O2	Sì, la vedo. [N]
+165.6573477707051	173.3285720121336	O1	Ecco, devi andare nella corsia dove c'è la mia, la mia icona, vedi? [OVERLAP/] Vedi il mio faccione, è quello.[/OVERLAP] Quella lì è la corsia centrale.
+173.3285720121336	177.37972688321557	O2	È che di solito la mappa la metto in alto a sinistra, non pensavo fosse quella. [N]
+177.37972688321557	178.124020798237	O1	È quella lì.
+179.564655930551	180.53373214145282	O2	Ok arrivo.
+180.5340433531897	183.04810195903943	O1	Vedi che ci sono tre corsie principali?
+183.04810195903943	188.53698558433297	O1	È facile, il GOF la mappa di GOF Legends è una [OFFENSIVE/]cazzata.[/OFFENSIVE] C'è la corsia [OVERLAP/]top lane, la bot lane che sono speculari,[/OVERLAP]
+188.53698558433297	196.263015541338	N	[IVS]
+196.263015541338	200.47237707354532	O1	[OVERLAP/]Questo è il Romics. [/OVERLAP] Questo è il Romics. Vedi, io sono Lecco Sederi. [N]
+201.13909485838747	203.8135183117476	O1	Sembra l'uomo Poldo, come puoi ben [OVERLAP/]vedere[/OVERLAP][N]
+203.8135183117476	206.23795328298	O2	I nostri minion si stanno uccidendo a vicenda? [N]
+206.24931692662122	207.5819581115835	O1	E perché è il loro [OVERLAP/]lavoro.[/OVERLAP][N]
+207.5819581115835	208.70524451836414	O2	Stati trucidati. [N]
+209.00661404213452	214.5257540260434	O1	[OVERLAP/]Perché gli ho dato[/OVERLAP] una mano. Ecco, ah, [OVERLAP/]allora. [/OVERLAP]Allora, Poldo.[N]
+214.99930123862336	222.95655163598678	O1	Come puoi vedere, se tu tieni premuto tab, apre come si dice, la lista di giocatori. Vediamo Lecco Sedere e uomo Poldo.[N]
+223.34397095859305	225.65419724938968	O1	Con le nostre, [OVERLAP/]a partire [/OVERLAP][N]
+225.65419724938968	232.84082216453058	O1	[OVERLAP/]dalla sinistra del nome, abbiamo le summoner. Aspetta che devo[/OVERLAP] mutare gli alert, altrimenti non riesco a parlare.[N]
+233.28673589646468	238.56726264096557	O1	Allora, tu vedi cosa abbiamo? Le nostre facce. Poi diamo delle iconcine. Dico bene, Poldo? [N]
+238.70521074823628	239.305266000783	O2	Sì.[N]
+239.71794627717983	247.54671584456122	O1	Ok. Abbiamo le nostre summower spells. Tu in questo caso hai lo sfinimento e. [N]
+248.04766598511887	252.44397060583032	O1	Penso si chiami spettralità in italiano. Riesci [OVERLAP/]a vederle? Ecco, è perfetto.[/OVERLAP]
+252.44397060583032	255.59560269409587	O2	Tu invece hai ustione e flash. Ah, sono le abilità, [OVERLAP/]praticamente. [/OVERLAP]
+255.59560269409587	258.56655163598685	O1	Quelle. Queste le si chiamano summowen spell.
+258.8395008343362	266.63291844866023	O1	Eh. [OVERLAP/]Vengono[/OVERLAP] scelte a monte, no? Prima della partita si possono scegliere due. E sono quelle che ti terrai tutta la partita. Così funziona.[N]
+266.63291844866023	267.0063338450852	O2	Ok.[N]
+267.9782177054579	275.49410913414664	O1	Eh. Adesso, come faccio a spiegarti il resto? Questi qua sono i minion. Sono praticamente la carne da [OVERLAP/]macello del[/OVERLAP]
+275.93246480508543	279.67904043282397	O2	I minion. Li vi, li a, li, cioè. Sono un po' diversi da quelli del film, però.[N]
+279.81602770566326	286.1960277056633	O1	[OVERLAP/]Ma questi[/OVERLAP] mi sa che sono arrivati prima. [OVERLAP/]Quindi.[/OVERLAP] Eh. Di quand'è il film dei minion?
+286.56589030301785	289.02022260317716	O2	Non lo so, ma il telo mare c'è di, di questi?[N]
+291.3969322565483	296.14767147188905	O1	Penso c'è, ci sia più merce di League of Legends rispetto che i minion.[N]
+296.41479445886733	297.6161033379921	O2	[OFFENSIVE/] Porca troia [/OFFENSIVE]è vero.
+297.8078839440279	305.7512326839604	O1	Dalla chat [OVERLAP/]mi dicono[/OVERLAP] il più vecchio è LOL. Benissimo. Allora, tu devi picchiare i miei minion, io devo picchiare i tuoi. A cosa servono?[N]
+305.7512326839604	307.7337952699164	O1	Beh, intanto sono la carne da macello.
+307.7337952699164	314.97725982678827	O1	Fino a lì ci siamo, ok? Loro, passano tutto. Ogni trenta secondi spawano dalla base. Se, se tu controlli la tua base nella mini mappa,[N]
+314.97725982678827	319.3348103344615	O1	vedi i pallini che si muovono dalla base verso le lane, quelli sono i minion che ogni trenta secondi vengono[N]
+319.3348103344615	324.3676703462181	O1	catapultati in lane tutto il tempo. La loro funzione è, è puramente quella di morire.[N]
+324.3676703462181	326.4913207766514	O1	Vedi, si picchiano tutto [OVERLAP/]il tempo e basta[/OVERLAP].
+326.4913207766514	330.02439221400033	O2	Si devono spacca le torri [OVERLAP/]e quindi i minion[/OVERLAP] puntano alle torri.
+330.02439221400033	333.58	O1	Bene, i minion tirano dritto tutto il tempo sono la carne da macello. Tu cosa devi fare?[N]
+333.58	339.5444291011084	O1	Devi farmarli. Cosa vuol dire? Devi dargli l'ultimo colpo per ucciderli. Così, tac, vedi? E li uccidi. [N]
+339.5444291011084	343.58	O1	Cosa succede quando gli dai l'ultimo colpo ai minion? Che prendi soldi.[N]
+344.0936980518813	346.8426016448955	O1	Provaci. Vedi? Le hai preso i soldi.[N]
+348.0960248914859	348.8146758421689	O2	Godo.[N]
+348.8146758421689	355.2535612120714	O1	[OVERLAP/] I carretti[/OVERLAP], que-questi, questi questi minion qua, sono quelli più grossi e ti danno più soldi. E sono anche più resistenti, vedi?
+355.2535612120714	357.37631004019187	O1	Quindi il tuo obiettivo [OVERLAP/]è quello di di picchiarli.[/OVERLAP] [N]
+357.37631004019187	361.3973966665982	O2	Al Sud Italia posso dire che si possono rubare i soldi anche senza uccidere le persone.[N]
+362.5827396103763	367.67862991339405	O1	Non su League of Legends, mi dispiace. Qua è, è un gioco[OVERLAP/] del Nord, questo.[/OVERLAP][N]
+367.67862991339405	368.677667181582	O2	I citrulli.
+369.15123212112496	376.25397173150134	O1	Bene. Però io sono il il personaggio nemico e quindi cosa succederà? Che adesso mi arrabbio e ti attacco.
+376.48	381.202259402062	O2	[OVERLAP/]No, [/OVERLAP]maresciallo, la prego, mi si fermi. [OVERLAP/]Ma [/OVERLAP]come faccio a parlare?[N]
+381.202259402062	386.34986316019007	O2	Ah, sì, a parlare, va beh. Faccio ad attaccare, volevo dire. [OVERLAP/]Volevo parlare del timon.[/OVERLAP][N]
+386.34986316019007	391.5758903030179	O1	[OVERLAP/]E come, e come, come[/OVERLAP] si attaccano i nemici? Premendo tasto destro sul nemico.[N]
+392.19917727263396	395.17763735130245	O1	Però è atte-. [OVERLAP/]Premi[/OVERLAP] tasto destro su di me e vieni ad attaccarmi.
+396.0132528490294	398.8682193939643	O2	Non si muove il mio perso. [OVERLAP/]Ah, devo muovermi giustamente.[/OVERLAP]
+399.32712298697834	405.34767090905365	O1	Ecco, [OVERLAP/]vedi, [/OVERLAP]ci stiamo picchiando adesso. Ovviamente [OVERLAP/]ci sono[/OVERLAP] anche le abilità, non ci sono soltanto gli attacchi base.[N]
+405.34767090905365	412.2517806060357	O1	Le altre abilità sono Q, W e, e R, che è la, la ulti, che si sblocca a livello sei. Tu le hai sbloccate le abilità?[N]
+413.50917952397583	416.08172340919515	O2	Eh, no.[N]
+416.42418877711606	423.18725982678825	O1	Per sbloccarle, se vuoi sbloccare per esempio la Q, devi cliccare con il mouse sopra al, alla freccina che ci sarà sopra la Q[N]
+423.18725982678825	430.0160271428278	O1	oppure [OVERLAP/]fare Ctrl Q e ti mette il punto. [/OVERLAP]Ogni volta che sei di livello puoi mettere un punto in più. Capito?[N]
+430.7078071860281	433.4721147922191	O2	Ok, e quindi, ma ogni partita si resetta o lo sto?[N]
+433.4721147922191	439.6075335064081	O1	[OVERLAP/]Sì a ogni pa- [/OVERLAP]No, no, ogn- no, no ogni partita si resetta. League of Legends parte, si va da livello uno al diciotto,[N]
+439.6075335064081	445.0063483837956	O1	finisce la partita e poi ne inizia un'altra. Così. Tutto così, [OVERLAP/]capito[/OVERLAP]? Ecco.[N]
+445.0063483837956	447.36251011509154	O2	Meditazione, stili masteris-.[N]
+447.36251011509154	448.56	O1	[OVERLAP/]Esatto.[/OVERLAP][N]
+449.6901357141391	454.71743129873727	O1	Oh. [OVERLAP/]Sarà[/OVERLAP] molto difficile, ragazzi, questo tutorial. Questo tu tutorial [OVERLAP/]a livello base. [/OVERLAP][N]
+454.71743129873727	456.41499021653703	N	[IVS]
+456.41499021653703	457.17	O1	Esatto.[N]
+457.17	460.567974702122	O2	E perché il tutorial di League of Legends non, non ho capito niente. Cioè.[N]
+460.567974702122	467.42342437226154	O1	[OVERLAP/]E ma il tutorial di LOL spiega veramente male, devo dire, [/OVERLAP]perché per quanto l'abbiano migliorato con il tempo, non è un granché.[N]
+467.84123212112496	470.39425544346875	O1	Ok? Adesso, Poldo,[N]
+470.39425544346875	477.69054735923976	O1	cercherò di [OVERLAP/]spiegarti [/OVERLAP]nel modo più sintetizzato e, e breve possibile e quindi cerca [OVERLAP/]di aprire le orecchie.[/OVERLAP][N]
+477.89672231892035	478.430968292877	O2	Sì.[N]
+478.7047944588673	483.59534604112434	O1	Qual è l'obiettivo di League of Legends? Come si vince una partita di League of Legends, secondo te? [N]
+485.0337005863923	488.95520497829716	O2	Devo astenermi dalle battute Black Humor, però distruggendo il Core.[N]
+489.8250670128163	496.45054735923964	O1	Va bene, sì, esatto, sì, distruggendo il Nexus. Che co- [OVERLAP/]puoi vedere, nella mini [/OVERLAP]mappa, se tieni premuto tasto a sinistro sulla minimappa,[N]
+496.45054735923964	498.9384853716883	O1	puoi girare lo schermo, puoi girare la visuale, no?
+498.9384853716883	504.95739722943364	O1	LOL è fatto per poter vedere tutta la mappa, non è tipo un MMORPG dove c'hai la visuale [OVERLAP/]incollata su di te[/OVERLAP].[N]
+504.95739722943364	508.4925782889749	O1	Tu puoi guardare ogni punto della mappa in qualsiasi momento. Ok?
+509.05422149236523	513.7382193939641	O2	Fantastico. Ah, è questo mega cristallone rosso. [OVERLAP/]Ok.[/OVERLAP]
+513.7382193939641	521.2039722943366	O1	E quello lì è il Nexus tuo, il mio invece è quello blu. L'obiettivo, per vincere la LOL, è di distruggerlo. E come lo si distrugge?[N]
+521.2039722943366	526.2036395517761	O1	Pushando le lane, uccidendo i minion, distruggendo le torri, è molto progressivo,
+526.2036395517761	531.2039722943366	O1	distruggi le torri, distruggi le torri, distruggi le torri, finché non arrivi alla base, distruggi il Nexus e hai vinto.[N]
+531.2039722943366	539.1902736796198	O1	Ovviamente, entrambi, entrambi i team cercano di fare la stessa cosa, quindi è una sorta di braccio di ferro, no? Da chi spinge di più verso l'altro.[N]
+539.1902736796198	542.4308962499376	O1	Hai attivato la Ultimate, infatti sei diventato più [OVERLAP/]veloce, vedi?[/OVERLAP][N]
+542.8418546914427	543.3487034359656	O2	Ok.[N]
+543.615826422944	549.0863008224477	O1	Avevi premuto la R. La R è la Ultimate e, tolte qualche eccezione,[N]
+549.0863008224477	554.494051845853	O1	è l'abilità con il cooldown più alto, quindi c'ha il tempo di ricarica più alto, perché è l'abilità più forte, ok?
+554.494051845853	557.3123279652755	O1	Nel caso di Master [OVERLAP/]Yi, [/OVERLAP]proprio a prova di [OFFENSIVE/]scemo[/OFFENSIVE],[N]
+557.3123279652755	562.3260277056634	O1	ti dà più velocità di movimento e più velocità di attacco, per [OVERLAP/]farla semplice. [/OVERLAP][N]
+562.9767119047129	568.0200039398482	O1	Bene. Adesso, c'è, hai qualche dubbio, c'è qualcosa che vuoi sapere?[N]
+569.1706875760625	571.6911372851006	O2	Eh, eh.[N]
+572.0199040383047	572.7116840815048	O1	Mmh.[N]
+573.108943908293	575.7185300118505	O2	Terenas, come si chiama di nome? [N]
+575.7185300118505	576.4240086697677	O1	Lapo.
+577.1089394056096	579.2528792643635	O2	Ok, grazie. Possiamo giocare. [N]
+579.7332875324515	582.9993437338492	O1	Bene. Allora, fateci [OVERLAP/]il video su YouTube. [/OVERLAP][N]
+583.7185210064831	587.4182193939645	O2	Mi manca, mi mancano un sacco di di di nozioni.[N]
+587.4182193939645	587.7870095773835	O1	[OVERLAP/]Sì[/OVERLAP].[N]
+589.4250664499809	590.5705052193746	O2	Che roba è?
+590.5883762869767	595.7184925107487	O1	[OVERLAP/]Allora, forse. [/OVERLAP]Allora, io ho pensato una cosa. Se lo vuoi fare in un modo leggermente più serio,[N]
+595.7299867734168	603.6967633326119	O1	ti condivido lo schermo e ti faccio vedere da me, spiegandoti ogni cosa, sennò ti devo dire guarda qui, guarda lì. Cosa vuoi fare, Poldo? Devi dirmelo tu.[N]
+604.410272553949	606.4376735143566	O1	La vuoi più serio o a [OFFENSIVE/]cazzo[/OFFENSIVE]di cane? [N]
+607.5130147696282	611.14314766959	O2	A[OFFENSIVE/]cazzo[/OFFENSIVE]di serio. Metà e metà. Oh.[N]
+611.7473983551047	615.5527425605825	O1	Eh, quindi. Vuoi che te lo[OVERLAP/] spieghi. [/OVERLAP][N]
+615.5527425605825	616.3634472743943	O2	[OFFENSIVE/]Cazzo[/OFFENSIVE] di cane va bene.[N]
+616.9956317211415	619.8638388315395	O1	A [OFFENSIVE/]cazzo[/OFFENSIVE] va bene. vabbè allora, eh.[N]
+619.8638388315395	623.1568327762557	O2	[OVERLAP/]Le[/OVERLAP] cose essenziali per picchiare a un livello cinque.[N]
+624.5008199131889	626.2458703949022	O2	No [OVERLAP/]ragazzi,[/OVERLAP] non fatemi del [OVERLAP/]male[/OVERLAP]. [N]
+626.2458703949022	627.0261269781652	O1	Va bene. [N]
+628.3472936930472	633.0018188073518	O1	Steaven secondo me è meglio, ma non penso voglia imparare così approfonditamente, ecco.[N]
+633.3887656275332	641.1	O1	Va bene, Poldo. Allora, adesso io e te ci picchiamo.[OVERLAP/] Va bene? Nella partita seria, adesso faccio.[/OVERLAP][N]
+641.1	643.4924263233996	O2	Ravenna Bologna? Ah me, ah sulla.[N]
+643.4924263233996	644.7321509552734	O1	[OVERLAP/]Perché sei a Ravenna? [/OVERLAP][N]
+645.3669321875575	646.3730716156081	O2	Mi sono trasferito.[N]
+646.9787237688347	647.9228781386927	O1	A Ravenna?[N]
+648.3622838552351	648.7584936364196	O2	Sì.[N]
+648.7584936364196	650.8280345042656	O1	Cioè, tra tutti i posti in cui potevi andare è a Ravenna?
+651.8918565100275	655.5699345614981	O2	Pensavo [OVERLAP/] fosse un incipit [/OVERLAP]di una frase bella, invece no.[N]
+656.3417269277923	659.6489035930141	O1	Boh. Va beh, è Mirabilandia.[N]
+659.6489035930141	661.0335024683089	O2	Sto unendo tutte le abilità.
+661.0335024683089	668.1650687013226	O1	I mosaici, va bene. Ok. Allora, le tue abilità, Poldo. Allora, intanto, quando tu, utilizzi un'abilità,[N]
+668.6034243722617	674.6115826075765	O1	ti consuma del mana, ok? Il mana è ciò che ti permette di lanciare le abilità. è la barra blu [OVERLAP/]ecco[/OVERLAP].
+674.6115826075765	676.7335612120715	O1	È la barra [OVERLAP/]blu sotto la barra degli HP[/OVERLAP].
+676.7335612120715	677.9101957994516	O2	Ricarica uccidendo? [N]
+678.3622500851072	684.544383376602	O1	Si ricarica con il tempo, letteralmente. Ogni tot ci sarebbe anche scritto in realtà la tua velocità di ricaricamento del mana.
+684.544383376602	691.4005501734173	O1	A vedere. Dovresti vedere un numerino alla destra della barra blu che ti dice quanto [OVERLAP/]mana guadagni al secondo[/OVERLAP], ma va beh. [N]
+691.4005501734173	693.0882609057065	O2	[OVERLAP/]Sì.[/OVERLAP]Ma ci sono troppe scritte.
+693.5421613720066	701.4428717153694	O1	[OVERLAP/]Eh, [/OVERLAP]lo so. E non è facile. Non è facile. Allora, caro Poldo, come funziona? Quando tu, se noi ci picchiamo[N]
+701.4428717153694	706.4701790049962	O1	e tu vuoi recuperare vita, mana, comprare oggetti, qualsiasi cosa, devi tornare in base, [N]
+706.4701790049962	710.8268098770626	O1	capito? Per tornare in base c'è una cosa chiamata recall[N]
+710.8268098770626	714.2896087286783	O1	che, che si attiva premendo B. Se tu premi B, [N]
+714.2896087286783	720.777164513561	O1	vedi, il personaggio in otto secondi torna in base, a meno che non venga interrotto, [OVERLAP/]ovviamente.[/OVERLAP]. Tipo, adesso sto tornando in base,[N]
+720.777164513561	723.3957047593308	O1	i minion mi hanno picchiato e quindi mi hanno interrotto il recall.
+723.5661594139491	730.223973320258	O1	Quindi in base uno cosa vorrebbe fare? Tipo, siamo in questa situazione. Io voglio andare in base, quindi cosa faccio? Picchio l'ondata di minion.[N]
+730.9402849936375	733.6987120678808	O1	Ok? Cerco di ammazzare tu e, il più minion possibile [N]
+733.6987120678808	740.443831358622	O1	e una volta che li ho picchiati [OVERLAP/]tutti[/OVERLAP] dico, ok, adesso vado in base. Mi allontano in modo tale che un eventuale nemico non ti attacchi [N]
+740.443831358622	743.0395746502751	O1	e poi fai il recall. Dura otto secondi[N]
+743.0395746502751	746.6090985320623	O1	e in questi otto secondi tu torni in base, compri gli oggetti,[N]
+746.6090985320623	751.7771629080125	O1	recuperi vita in mana e torni a picchiare gli altri, ok? Adesso [OVERLAP/]cosa dobbiamo[/OVERLAP] fare?[N]
+752.3445384908874	757.2194529049434	O1	Dobbiamo fare un combattimento. Prova a venire [OVERLAP/]qua.[/OVERLAP] Picchiamoci. [N]
+757.5882470338121	758.1414382271153	O2	Ok.[N]
+758.3626956655344	760.8249723379945	O1	[OVERLAP/]Ecco, ovviamente[/OVERLAP] non è una cosa che fai. Che. Ok,[N]
+760.8249723379945	766.6818449660847	O1	adesso ci si picchia. Poldo, stai attaccando un minion, non stai attaccando me. [OVERLAP/]Ora stai [/OVERLAP]attaccando me.[N]
+766.6818449660847	768.7371772373054	O2	Capire chi. Ah, devo cliccare su di te.[N]
+768.7371772373054	771.2974595550289	O1	[OVERLAP/]Devi[/OVERLAP]cliccare su di me, certo. Adesso. [N]
+771.9712180596928	773.6676605765125	O1	Da ernia alle dita. [N]
+773.9726249523079	776.9235266820324	O1	No, cioè, se tu premi una volta già, [N]
+776.9235266820324	783.4974479016502	O1	diciamo, attacchi in automatico, ecco. [OVERLAP/]E niente.[/OVERLAP] Quindi così sono. E adesso muori. [N]
+784.561636224304	791.5560822178871	O1	Bene. [OVERLAP/]Ora. [/OVERLAP].Eh ma è per, è per insegnarti, perché capiterà molto spesso stasera, quindi. [N]
+791.5560822178871	794.4153902607031	O1	Adesso, [OVERLAP/]come vedi [/OVERLAP]c'hai venti secondi di tempo[N]
+794.4153902607031	797.141934516808	O1	di rinascita. Il tempo di rinascita [N]
+797.141934516808	802.6565248834249	O1	aumenta con l'aumentare de, con l'an- l'andamento della partita, quindi tipo i primi minuti sarà basso.
+802.6565248834249	806.4818378880633	O1	Dopo mezz'ora, quaranta minuti, sarà molto alto, capito? [OVERLAP/]Così funziona. [/OVERLAP][N]
+806.4818378880633	809.0633967901443	O2	Mez- mez-. Cioè, una partita può durare mezz'ora?[N]
+809.0633967901443	816.8082106797705	O1	La partita di LOL media dura. Quanto dura adesso più, le partite LOL medio? Secondo me, una mezz'oretta, le partite medie, sì.
+817.7030503020329	821.2164350199927	O1	[OVERLAP/]Forse, do venti, allora, forse adesso[/OVERLAP] [N]
+821.2164350199927	826.5470225519251	O1	sì, diciamo tra i venticinque, ah dieci minuti giochi a quello mobile per il telefono. Eh.
+826.5470225519251	831.6378527937825	O2	[OVERLAP/]Non lo so,[/OVERLAP] c'ho sempre dato l'accezione da Overwatch, tipo, boh, dieci minuti di [OVERLAP/]partita,[/OVERLAP] dieci, quindi.
+831.6378527937825	837.369716076728	O1	No. Allora, in media. Allora, se quindici minuti vuol dire proprio fa, fai conto, a quindici minuti,[N]
+837.369716076728	839.943719740722	O1	League of Legends ti dà la possibilità di arrenderti
+839.943719740722	846.4264536350157	O1	all'unanime, quindi a all'unanimità. Quindi, se a quindici minuti tutti i membri della tua squadra vogliono, possono arrendersi,[N]
+846.4264536350157	850.6436846263745	O1	perché in genere non esiste partita di LOL che finisce prima di quindici minuti. Non esiste. [N]
+851.4925418472558	855.914699429194	O1	Eh, sempre ci sono le eccezioni, ma di base non esiste.[N]
+855.914699429194	861.4925418472558	O1	Diciamo che la partita minima, cioè una partita veloce,[N]
+861.4925418472558	866.9655322223391	O1	finisce entro i, boh, ventitré minuti. Vuol dire che la partita è veloce.[N]
+867.6747517009328	870.6662007007949	O1	Dai [OVERLAP/]ventitré, ai[/OVERLAP] trenta minuti.[N]
+870.6662007007949	874.9215175723573	O2	[OVERLAP/] Qua in chat mi [/OVERLAP]stanno dicendo proprio anche, tipo, io ho fatto cinquantacinque [OVERLAP/]minuti.[/OVERLAP][N]
+874.9215175723573	878.0790068037312	O1	[OVERLAP/]E adesso non è[/OVERLAP],non è la partita media cinquantacinque minuti.[N]
+878.0790068037312	882.6634736621008	O1	La partita media posso dire, secondo me, che è tra i ventitré e i trenta minuti,[N]
+882.6634736621008	886.4548936625687	O1	la partita media. Dai trenta minuti ai[N]
+886.979716076728	892.3414805703841	O1	trentasette è una partita lunghetta, sopra i trentasette inizia a essere abbastanza lunga. Capito? [N]
+893.011935545216	895.4407092729969	O1	Così è [OVERLAP/]League of Legends. Quindi sì, le partite. [/OVERLAP][N]
+896.5326642264695	899.3895895838405	O2	Ah. Fuggi, fuggi. Bravi, [OVERLAP/]proteggetemi.[/OVERLAP] [N]
+899.6945539596359	904.4676010505716	O1	[OVERLAP/] Adesso sotto[/OVERLAP] la torre. Vedi, la torre attacca i minion, non attacca me. Però se [OVERLAP/]dovessi.[/OVERLAP][N]
+904.4676010505716	905.2321985322172	O2	Fa troppo ridere.[N]
+905.3314892592202	909.7645208478857	O1	Se io [OVERLAP/]dovessi [/OVERLAP]ingaggiare te sotto torre, così inizio a picchiarti sotto torre, [N]
+909.7645208478857	913.9626945951686	O1	guarda, [OVERLAP/]la torre [/OVERLAP]inizia a picchiarmi, quindi ti difende la torre, vedi?[N]
+913.9626945951686	916.3857076166806	O1	E fa anche dei bei danni, quindi devo allontanarmi. [N]
+916.3857076166806	923.4449643757954	O1	Quindi questo per farti capire, che tu di base non vuoi andare a picchiare il nemico sotto torre, a meno che tu non sia convinto di poterlo uccidere[N]
+923.4449643757954	924.992412761074	O1	in un brevissimo lasso di [OVERLAP/]tempo[/OVERLAP].[N]
+924.992412761074	930.2707103433626	O2	Un'orda di. E la torre. Ah, la picchiano i minion, io non posso picchiarla.
+931.0650361593875	935.7725488356984	O1	La tua? No, tu puoi picchiare la mia, certo che si può picchiare la torre. [OVERLAP/]Assolutamente, sì. [/OVERLAP][N]
+937.4321224156078	938.6519799187889	O1	Ok, bene. [N]
+938.6519799187889	942.2158156104282	O2	E io non devo mai picchiare i minion, cioè loro si menano tra di loro.[N]
+942.23	944.6661610972636	O1	No, no, tu devi picchiarli ti ho detto, ti danno i soldi. [N]
+945.0278630313464	949.9717030044485	O2	[OVERLAP/]No, no, dico in questo caso ci sei tu, non mi [/OVERLAP]conviene picchiare i minion, ma picchiar te.[N]
+951.0639010014829	952.9766401414067	O1	No. In realtà no. [N]
+952.9766401414067	959.5102210191816	O1	Allora, League of Legends è un gioco molto di farm, e tu noterai una cosa che io proprio notavo quando la prima volta che ho visto League of Legends, [N]
+960.1901909998064	962.9021614127502	O1	[OVERLAP/]Eh[/OVERLAP], io chiedevo alla persona che guardavo ma perché[N]
+962.9021614127502	970.0780859262373	O1	non, non picchi l'avversario che è a un centimetro da te? Perché non è così che si gioca. Se tu, e soprattutto i primissimi livelli, adesso siamo già un po' più [N]
+970.0780859262373	974.4451375551823	O1	avanti, ma ai primissimi livelli se tu vieni e mi attacchi in mezzo ai minion, i minion ti menano, [N]
+974.4451375551823	979.6454620442954	O1	e quando sono tanti ti fanno tanto male all'inizio della partita, capito? Quindi in realtà [OVERLAP/]all'inizio[/OVERLAP][N]
+979.6454620442954	984.3023881862126	O1	il tuo unico obiettivo è quello di prendere i minion, di farmarli, di darci l'ultimo colpo,
+984.3023881862126	987.9007821269548	O1	capito? Pochissime volte [OVERLAP/]andare[/OVERLAP] a picchiare l'avversario ai primi livelli. [N]
+988.9569175354416	990.141314064693	O1	Così funziona.[N]
+991.1474034525228	991.8993261241213	O1	Va bene? [N]
+992.3933028921647	993.3812564282514	O2	Ok. [N]
+993.3812564282514	998.4528928312831	O1	Adesso, qua hai capito che il tuo obiettivo è quello di farmare i minion,[N]
+998.4528928312831	1006.1516874849152	O1	quindi di menarli, cercare di prenderli nel più possibile. Ovviamente se sei in pericolo, tipo in questo caso io non ti sto attaccando, ma se volessi potrei ucciderti,[N]
+1006.1516874849152	1009.7784343313028	O1	magari lì in quel mo-, in questo momento potresti stare più difensivo.
+1009.7784343313028	1014.7902410692735	O1	Allora, questa è [OVERLAP/]la base. [/OVERLAP]Adesso parliamo invece degli oggetti.[N]
+1014.7902410692735	1017.3289540816315	O1	Come vedi, se tu apri lo shop, premendo P, [N]
+1017.9539544818987	1023.9828919563121	O1	Coeh adesso in tutti gli oggetti, come vedrai, sono diverse selezioni, quindi uno deve un attimo [OVERLAP/]imparare.[/OVERLAP]
+1023.9828919563121	1026.3897934360637	O1	Ce l'ho tantissimi oggetti di ogni categoria, capito?
+1027.8576466983548	1031.5783133900559	O1	Ogni tipo di campione ha degli oggetti che deve seguire.
+1031.5783133900559	1038.3313232560927	O1	Per esempio, nel tuo caso, Master Yi è un combattente barra assassino. Va bene?[N]
+1038.3313232560927	1039.068083365334	O1	Ok.[N]
+1039.068083365334	1042.7203943486743	O1	È la sua categoria, e quindi gli oggetti che andrai a comprare.
+1043.436303898071	1048.66	O1	Eh. Beh, gli oggetti che compri sono quelli suggeriti. Proprio lì non, non sbagli in genere.
+1049.013206503968	1049.7970178029584	O2	Ok.
+1049.7970178029584	1051.254851679379	O1	[OVERLAP/]Gli oggetti che vuoi compra s-.[/OVERLAP]
+1051.254851679379	1056.0093964518455	O2	Buono. Ah, ti dice anche efficace contro eh il, il player, tipo. [N]
+1056.0093964518455	1059.0366423760072	O1	Esatto. Adesso, ehm quanti soldi hai?
+1060.113511109728	1062.477762885047	O1	Tipo, avrai due, tre mila gold in questo [OVERLAP/]momento. [/OVERLAP]
+1062.477762885047	1064.9856625030168	O2	[OVERLAP/]Ho ho[/OVERLAP] duemila cinquecento novanta.
+1064.9856625030168	1071.6547168562652	O1	Ok, se tu vai in base, sono degli oggetti che ovviamente non puoi comprare, tra i suggeriti. Magari costano tre mila e passa.[N]
+1071.6547168562652	1074.618191980448	O1	Però cliccandoci sopra vedrai che hai un build path,[N]
+1074.618191980448	1076.3211606041152	O1	nel senso che. Ascolta, Pol-.[N]
+1076.3211606041152	1078.0380310784121	O1	[OVERLAP/]Ah, sì, ho capito[/OVERLAP] ho capito.
+1078.0380310784121	1083.7566259051405	O1	Te le. Ok, penso tu abbia ca-. Ok. [OVERLAP/] C'è un build part, quindi tu devi.[/OVERLAP][N]
+1083.7566259051405	1086.3340586436739	O1	[OVERLAP/]Esatto. Tu i. [/OVERLAP]Quando vuoi chiuderti un oggetto,
+1086.3340586436739	1093.503615164133	O1	a prescindere dai soldi che c'hai, tu vuoi andare a comprare gli oggetti che lo antecedono, che lo costruiscono questo oggetto.
+1093.503615164133	1098.2308374989163	O1	[OVERLAP/]Esempio,[/OVERLAP] eh tu che oggetto hai davanti? Come si chiama quello che vorresti [OVERLAP/]comprare?[/OVERLAP][N]
+1098.2308374989163	1100.0079490424869	O2	Lama del re in rovina.
+1100.0079490424869	1102.1450078605494	O1	Ok, lama del re in rovina. Quindi.[N]
+1103.0944622380753	1110.163855358436	O1	Eh. Aspetta, adesso devo trovarla. Questa qua. Allora, tu come vedrai, lama del re in rovina si co- si costruisce con gli oggetti [N]
+1110.163855358436	1115.1812894761706	O1	base, che sono spada lunga e daga. Ok? Quelli che costano trecento, trecento cinquanta. [N]
+1115.1812894761706	1119.0505052291894	O1	I quali, si evolvono in scettro vampirico[N]
+1119.63373569877	1126.3	O1	[OVERLAP/]eh[/OVERLAP] arco ricurvo, ehm e poi c'è il, il [OVERLAP/]pickaxe,[/OVERLAP] che è uno stand alone,
+1126.3	1129.2961777770881	O1	cioè è un oggetto base, costa un po' di più perché dà più statistiche. [N]
+1129.2961777770881	1135.9001931380483	O1	Andandoci sopra col mouse vedrai che statistiche ti danno. Esempio, la spada lunga ti dà dieci di attacco fisico. Fine.[N]
+1135.9144571566492	1139.1333644748142	O1	La daga ti dà dodici di a, di attack speed.[N]
+1139.1333644748142	1145.2939741431314	O1	Quindi proprio gli oggetti base danno una singola [OVERLAP/]statistica [/OVERLAP]e così. Fine. Quando poi, inizi a comprare oggetti
+1145.2939741431314	1149.3113717033111	O1	un po' più superiori, avranno delle stats in più. Per esempio, la spada[N]
+1149.3113717033111	1154.9445759413443	O1	lunga, se tu la compri, noterai che il oh, il prezzo degli oggetti successivi scende,[N]
+1154.9445759413443	1160.3088929509647	O1	perché ovviamente il prezzo è globale, non è che si va a sommare. Quindi, se lo scettro vampirico costa novecento[N]
+1160.3088929509647	1164.1072250784418	O1	e lo costruisci con la spada lunga, comprando la spada lunga lo scettro vampirico costerà[N]
+1164.1072250784418	1168.8643849358136	O1	cinque e cinquanta, quindi la differenza. [OVERLAP/]Lo scettro vampirico[/OVERLAP] ti dà [N]
+1168.8643849358136	1172.4075877257208	O1	più attacco fisico, ti dà quindici anziché dieci,[N]
+1172.8187501380905	1178.4779658782513	O1	e ti dà anche la [OVERLAP/]life steal,[/OVERLAP] il, il rubavita, che è la percentuale di cura che ricevi quando fai danno.
+1179.4237506658467	1179.9719443962363	O1	Ok?
+1179.9719443962363	1180.779174724502	O2	Ok.[N]
+1181.0748178855886	1184.3093013839339	O2	[OVERLAP/]Quindi, [/OVERLAP]in questo caso, cosa mi conviene fare?[N]
+1185.104483498345	1189.2202410692737	O1	In questo caso, la mmh la lama del re indovino è un ottimo oggetto.
+1189.2202410692737	1194.6498240347294	O1	Perché? Perché il tuo campione, Master Yi, sinergizza con gli auto-attacchi. [N]
+1194.6498240347294	1197.31448033149	O1	Ok? Ci sono campioni che sinergizzano più con le abilità
+1197.685689800115	1200.423436706055	O1	e altri che si energizzano più con gli auto-attacchi. Ok?
+1201.458997933312	1203.6899991250295	O1	Gli [OVERLAP/]oggetti che ti danno[/OVERLAP] velocità d'attacco[N]
+1203.6899991250295	1206.3493166126264	O1	sono quelli migliori per il, per il tuo campione.[N]
+1206.3493166126264	1212.7431757911866	O1	Perché più attacchi veloci e più performi col tuo campione. Il mio, per esempio, non è così. Io mi baso più sull'abilità.
+1213.1537842523694	1219.169992436968	O1	Sono anche un, un tank, un, e, e non sono non proprio un tank, però insomma, per semplificarlo,
+1219.169992436968	1221.7381884805654	O1	e non sono un, un combattente assassino come te.
+1221.996114321485	1225.562385622481	O1	Adesso facciamo una [OVERLAP/]cosa.[/OVERLAP] Andiamo a fare una partita contro i bot.[N]
+1225.9851838643522	1232.5634928795541	O1	Eh. Così ti spiego un po' meglio come funziona. Adesso fai, clicca su exit, exit game ed esci.[N]
+1233.688905867487	1233.9720388930725	O2	Eh.
